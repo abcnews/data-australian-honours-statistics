@@ -1,0 +1,9 @@
+name: australian-honours-system-statistics
+dependencies:
+- pip
+ - datapackage
+- python=3
+- pandas
+- matplotlib
+- seaborn
+- statsmodels
