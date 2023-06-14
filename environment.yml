@@ -1,7 +1,7 @@
 name: australian-honours-system-statistics
 dependencies:
 - pip
- - datapackage
+- datapackage
 - python=3
 - pandas
 - matplotlib
